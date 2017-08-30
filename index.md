@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+As a grad student, there will often be times when one is in search of funding - thus is the life of the academic. This webpage lists funding sources primarily for Astrophysics PhD students like the author.
 
-You can use the [editor on GitHub](https://github.com/AstroWanders/GradSchoolFunding/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# [](#header-1)Stipend funding
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A STEM grad student should not have to pay for his/her graduate education. Many students are supported by research and/or teaching assistantships. This section lists fellowships, which would take the place of a teaching or research assistantship, as well as sources of supplemental funding.
 
-### Markdown
+# [](#header-2)Fellowships (on-site)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) **due in October**. $34,000/yr stipend & $12,000 cost-of-education funds to offset graduate tuition costs for 3 years.
 
-```markdown
-Syntax highlighted code block
+- NASA Earth and Space Science Fellowship (NESSF) **due in February** will be posted at [http://nspires.nasaprs.com/](http://nspires.nasaprs.com/). $24,000/yr stipend & travel funding renewable for up to 3 years.
 
-# Header 1
-## Header 2
-### Header 3
+- [Hertz Graduate Fellowship](http://hertzfoundation.org/fellowships/fellowshipaward) **due in October**. $32,000/yr stipend & graduate tuition for 5 years.
 
-- Bulleted
-- List
+- [National Physical Science Consortium Fellowship](http://www.npsc.org/index.html) **due in November**. $20,000/yr stipend & tuition for up to 6 years.
 
-1. Numbered
-2. List
+- [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) **due in January**. $36,000/yr stipend, computer allowance, & tuition for 4 years.
 
-**Bold** and _Italic_ and `Code` text
+- [Ford Fellowship](http://sites.nationalacademies.org/PGA/FordFellowships/index.htm) **due in December**. $24,000/yr stipend for 3 years. Specifically for members of underrepresented groups.
 
-[Link](url) and ![Image](src)
-```
+- [Paul & Daisy Soros Fellowship](https://www.pdsoros.org/apply) **due in November**. $25,000/yr stipend & 50% tuition for up to 2 years. Specifically for "New Americans" (immigrants or children of immigrants).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# [](#header-2)Fellowships (off-site)/Internships
 
-### Jekyll Themes
+- [Harvard SAO Predoctoral Program](https://www.cfa.harvard.edu/opportunities/fellowships/predoc/overview.html) **rolling admissions**. 6mo - 1yr duration. $31,284/yr & relocation funds to Cambridge, MA. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AstroWanders/GradSchoolFunding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Lowell Predoctoral Program](http://www2.lowell.edu/rsch/predoc.php?r=) **due May/December**. 2yr duration. 
 
-### Support or Contact
+- [CalTech IPAC Visiting Graduate Fellowship](https://www.ipac.caltech.edu/page/graduate-fellowship-2018) **due in August**. 6mo duration.  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [NRAO Graduate Student Internship Program](https://science.nrao.edu/opportunities/co-op-internships/coop#Grad) **rolling admissions**. 
+
+- [NRAO Grote Reber Doctoral Fellowship](https://science.nrao.edu/opportunities/student-programs/ReberFellowships) **due in April/August**. Up to 2 yr duration.
+
+- [Phillips Academy Teaching Fellowship](https://www.andover.edu/About/CareersAtAndover/Pages/Teaching-Fellowship-Program.aspx) **due in January**. Campus housing, insurance, $30,000 stipend.
+
+# [](#header-2)PhD Completion grants
+
+- [Josephine de Karman Fellowship](http://www.dekarman.org/fellowship-recipients/) **due in January**. $22,000 stipend.
+
+# [](#header-2)Scholarships/ Additional funding
+
+- [Amelia Earhart Fellowship](https://www.zonta.org/Global-Impact/Education/Amelia-Earhart-Fellowship) **due in November**. $10,000. Specifically for women. 
+
+- [Dan David Prize](http://www.dandavidprize.org/scholars/2017-06-14-08-40-12/scholarship-applications) **due in March**. $15,000. Eligible fields change every year.
+
+
+# [](#header-1)Research funding
+
+- [Sigma Xi]
+
+- [The Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewisandclark) **due in January/February**. Up to $5,000.
+
+- [The Lewis and Clark Fund for Exploration and Field Research in Astrobiology](https://www.amphilsoc.org/grants/astrobiology) **due in February**. Up to $5,000.
+
+# [](#header-1)Travel funding
+
+# [](#header-1)Helpful information for applications
+
+- [Resumes & Cover Letters for Ph.D. Students](https://ocs.fas.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
+
+# [](#header-1)About the author
+
+I wrote this page because I wanted to gather the various funding sources that crossed my path into one place.
+
+As an Astrophysics PhD student, I have my own research to do, so I reserve the right to not respond to questions should you write to me. 
+
+If you experience server errors, you may contact [ASU Tech Support](https://asuonline.asu.edu/student-resources/technical-support).
+
+**Updated 9 August 2017**
