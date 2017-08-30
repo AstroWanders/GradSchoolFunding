@@ -8,54 +8,85 @@ A STEM grad student should not have to pay for his/her graduate education. Many 
 
 - [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) **due in October**. $34,000/yr stipend & $12,000 cost-of-education funds to offset graduate tuition costs for 3 years.
 
-- NASA Earth and Space Science Fellowship (NESSF) **due in February** will be posted at [http://nspires.nasaprs.com/](http://nspires.nasaprs.com/). $24,000/yr stipend & travel funding renewable for up to 3 years.
-
 - [Hertz Graduate Fellowship](http://hertzfoundation.org/fellowships/fellowshipaward) **due in October**. $32,000/yr stipend & graduate tuition for 5 years.
 
 - [National Physical Science Consortium Fellowship](http://www.npsc.org/index.html) **due in November**. $20,000/yr stipend & tuition for up to 6 years.
 
-- [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) **due in January**. $36,000/yr stipend, computer allowance, & tuition for 4 years.
+- [Paul & Daisy Soros Fellowship](https://www.pdsoros.org/apply) **due in November**. $25,000/yr stipend & 50% tuition for up to 2 years. Specifically for "New Americans" (immigrants or children of immigrants).
 
 - [Ford Fellowship](http://sites.nationalacademies.org/PGA/FordFellowships/index.htm) **due in December**. $24,000/yr stipend for 3 years. Specifically for members of underrepresented groups.
 
-- [Paul & Daisy Soros Fellowship](https://www.pdsoros.org/apply) **due in November**. $25,000/yr stipend & 50% tuition for up to 2 years. Specifically for "New Americans" (immigrants or children of immigrants).
+- [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) **due in January**. $36,000/yr stipend, computer allowance, & tuition for 4 years.
+
+- NASA Education Aeronautics Scholarship and Advanced STEM Training and Research (AS&ASTAR) Fellowship **due in February** will be posted at [http://nspires.nasaprs.com/](http://nspires.nasaprs.com/).
+
+- NASA Earth and Space Science Fellowship (NESSF) **due in February** will be posted at [http://nspires.nasaprs.com/](http://nspires.nasaprs.com/). $24,000/yr stipend & travel funding renewable for up to 3 years.
+
+- [NASA Space Technology Research Fellowship (NSTRF)](https://www.nasa.gov/directorates/spacetech/strg/archives_nstrf.html) will be posted at [http://nspires.nasaprs.com/](http://nspires.nasaprs.com/).
+
+- [NASA Minority University Research and Education Project Aeronautics Scholarship and Advanced STEM Training and Research Fellowship](https://www.nasa.gov/offices/education/programs/descriptions/MUREP_AS-ASTAR.html).
+
+- [ASU/NASA Space Grant](https://nasa.asu.edu/content/graduate-information) **due in April**. $9,600/semester, tuition, & health insurance.
+
+- [NRAO Student Observing Support Program](https://science.nrao.edu/opportunities/student-programs/sos) requires your advisor to be the PI of the proposal. $32,000/yr stipend, conference support, computer allowance. 
 
 ### [](#header-3)Fellowships (off-site)/Internships
 
 - [Harvard SAO Predoctoral Program](https://www.cfa.harvard.edu/opportunities/fellowships/predoc/overview.html) **rolling admissions**. 6mo - 1yr duration. $31,284/yr & relocation funds to Cambridge, MA. 
 
+- [NRAO Graduate Student Internship Program](https://science.nrao.edu/opportunities/co-op-internships/coop#Grad) **rolling admissions**. 
+
+- [Phillips Academy Teaching Fellowship](https://www.andover.edu/About/CareersAtAndover/Pages/Teaching-Fellowship-Program.aspx) **due in January**. Campus housing, insurance, $30,000 stipend.
+
+- [NRAO Grote Reber Doctoral Fellowship](https://science.nrao.edu/opportunities/student-programs/ReberFellowships) **due in April/August**. Up to 2 yr duration.
+
 - [Lowell Predoctoral Program](http://www2.lowell.edu/rsch/predoc.php?r=) **due May/December**. 2yr duration. 
 
 - [CalTech IPAC Visiting Graduate Fellowship](https://www.ipac.caltech.edu/page/graduate-fellowship-2018) **due in August**. 6mo duration.  
 
-- [NRAO Graduate Student Internship Program](https://science.nrao.edu/opportunities/co-op-internships/coop#Grad) **rolling admissions**. 
-
-- [NRAO Grote Reber Doctoral Fellowship](https://science.nrao.edu/opportunities/student-programs/ReberFellowships) **due in April/August**. Up to 2 yr duration.
-
-- [Phillips Academy Teaching Fellowship](https://www.andover.edu/About/CareersAtAndover/Pages/Teaching-Fellowship-Program.aspx) **due in January**. Campus housing, insurance, $30,000 stipend.
+- NASA internships listed on [OSSI](https://intern.nasa.gov/ossi/web/public/main/).
 
 ### [](#header-3)PhD Completion grants
 
+For grad students in their last year.
+
 - [Josephine de Karman Fellowship](http://www.dekarman.org/fellowship-recipients/) **due in January**. $22,000 stipend.
+
+- [ASU Completion Fellowship](https://graduate.asu.edu/completion-fellowships) **due in March/April/November**. $8,500/$8,500/$3,500. 
 
 ### [](#header-3)Scholarships/ Additional funding
 
-- [Amelia Earhart Fellowship](https://www.zonta.org/Global-Impact/Education/Amelia-Earhart-Fellowship) **due in November**. $10,000. Specifically for women. 
+- [ASU Graduate Excellence Award](https://clas.asu.edu/fellowships/excellence-awards) **due in March**. $100-200 for grad students who have recieved non-ASU awards.
 
 - [Dan David Prize](http://www.dandavidprize.org/scholars/2017-06-14-08-40-12/scholarship-applications) **due in March**. $15,000. Eligible fields change every year.
 
+- [Amelia Earhart Fellowship](https://www.zonta.org/Global-Impact/Education/Amelia-Earhart-Fellowship) **due in November**. $10,000. Specifically for women. 
+
+- Department funding from [SESE](https://sese.asu.edu/student-life/grad-scholarships).
 
 # [](#header-1)Research funding
 
-- [Sigma Xi Grants-in-Aid of Research](https://www.sigmaxi.org/programs/grants-in-aid) **due in March/October**. Up to $5000 in Astronomy; $1000 in other fields.
+This section is for sources of funding to carry out research (e.g., computer to run models; travel to observe, etc.)
 
 - [The Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewisandclark) **due in January/February**. Up to $5,000.
 
 - [The Lewis and Clark Fund for Exploration and Field Research in Astrobiology](https://www.amphilsoc.org/grants/astrobiology) **due in February**. Up to $5,000.
 
+- [Sigma Xi Grants-in-Aid of Research](https://www.sigmaxi.org/programs/grants-in-aid) **due in March/October**. Up to $5000 in Astronomy; $1000 in other fields.
+
+- [ASU Graduate & Professional Student Association](http://gpsa.asu.edu/funding/) **due in August/December**. Up to $2000.
 
 # [](#header-1)Travel funding
 
+- [AAS International Travel Grants](https://aas.org/grants-and-prizes/international-travel-grants) **due in January/June**. To present research at an international conference.
+
+- [AAS Rodger Doxsey Travel Prize](https://aas.org/grants-and-prizes/rodger-doxsey-travel-prize) **due in October**. To present dissertation talk at a Winter AAS Meeting. 
+
+- [Pierazzo International Student Travel Award](http://www.psi.edu/pista) **due in November**. $2000 to present planetary science research at an international conference. 
+
+- [Gerald Soffent Memorial Fund](http://soffenfund.org/). $500 to present research in aerospace-related science/engineering.
+
+- [ASU Graduate & Professional Student Association](http://gpsa.asu.edu/funding/) **due up to 1 mo before travel**. Up to $950.
 
 # [](#header-1)Helpful information for applications
 
