@@ -65,6 +65,4 @@ I wrote this page because I wanted to gather the various funding sources that cr
 
 As an Astrophysics PhD student, I have my own research to do, so I reserve the right to not respond to questions should you write to me. 
 
-If you experience server errors, you may contact [ASU Tech Support](https://asuonline.asu.edu/student-resources/technical-support).
-
-**Updated 9 August 2017**
+**Updated 29 August 2017**
