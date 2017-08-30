@@ -84,7 +84,7 @@ This section is for sources of funding to carry out research (e.g., computer to 
 
 - [Pierazzo International Student Travel Award](http://www.psi.edu/pista) **due in November**. $2000 to present planetary science research at an international conference. 
 
-- [Gerald Soffent Memorial Fund](http://soffenfund.org/). $500 to present research in aerospace-related science/engineering.
+- [Gerald Soffen Memorial Fund](http://soffenfund.org/). $500 to present research in aerospace-related science/engineering.
 
 - [ASU Graduate & Professional Student Association](http://gpsa.asu.edu/funding/) **due up to 1 mo before travel**. Up to $950.
 
