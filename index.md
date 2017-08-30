@@ -4,7 +4,7 @@ As a grad student, there will often be times when one is in search of funding - 
 
 A STEM grad student should not have to pay for his/her graduate education. Many students are supported by research and/or teaching assistantships. This section lists fellowships, which would take the place of a teaching or research assistantship, as well as sources of supplemental funding.
 
-## [](#header-2)Fellowships (on-site)
+### [](#header-3)Fellowships (on-site)
 
 - [National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/) **due in October**. $34,000/yr stipend & $12,000 cost-of-education funds to offset graduate tuition costs for 3 years.
 
@@ -20,7 +20,7 @@ A STEM grad student should not have to pay for his/her graduate education. Many 
 
 - [Paul & Daisy Soros Fellowship](https://www.pdsoros.org/apply) **due in November**. $25,000/yr stipend & 50% tuition for up to 2 years. Specifically for "New Americans" (immigrants or children of immigrants).
 
-## [](#header-2)Fellowships (off-site)/Internships
+### [](#header-3)Fellowships (off-site)/Internships
 
 - [Harvard SAO Predoctoral Program](https://www.cfa.harvard.edu/opportunities/fellowships/predoc/overview.html) **rolling admissions**. 6mo - 1yr duration. $31,284/yr & relocation funds to Cambridge, MA. 
 
@@ -34,11 +34,11 @@ A STEM grad student should not have to pay for his/her graduate education. Many 
 
 - [Phillips Academy Teaching Fellowship](https://www.andover.edu/About/CareersAtAndover/Pages/Teaching-Fellowship-Program.aspx) **due in January**. Campus housing, insurance, $30,000 stipend.
 
-## [](#header-2)PhD Completion grants
+### [](#header-3)PhD Completion grants
 
 - [Josephine de Karman Fellowship](http://www.dekarman.org/fellowship-recipients/) **due in January**. $22,000 stipend.
 
-## [](#header-2)Scholarships/ Additional funding
+### [](#header-3)Scholarships/ Additional funding
 
 - [Amelia Earhart Fellowship](https://www.zonta.org/Global-Impact/Education/Amelia-Earhart-Fellowship) **due in November**. $10,000. Specifically for women. 
 
