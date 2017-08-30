@@ -47,7 +47,7 @@ A STEM grad student should not have to pay for his/her graduate education. Many 
 
 # [](#header-1)Research funding
 
-- [Sigma Xi]
+- [Sigma Xi Grants-in-Aid of Research](https://www.sigmaxi.org/programs/grants-in-aid) **due in March/October**. Up to $5000 in Astronomy; $1000 in other fields.
 
 - [The Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewisandclark) **due in January/February**. Up to $5,000.
 
