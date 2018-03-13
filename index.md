@@ -54,6 +54,8 @@ For grad students in their last year.
 
 - [ASU Completion Fellowship](https://graduate.asu.edu/completion-fellowships) **due in March/April/November**. $8,500/$8,500/$3,500. 
 
+- [American Association of University Women Dissertation Fellowship](https://www.aauw.org/what-we-do/educational-funding-and-awards/american-fellowships/af-dissertation-application/) **due in November**. $20,000 stipend.
+
 ### [](#header-3)Scholarships/ Additional funding
 
 - [ASU Graduate Excellence Award](https://clas.asu.edu/fellowships/excellence-awards) **due in March**. $100-200 for grad students who have recieved non-ASU awards.
@@ -67,6 +69,8 @@ For grad students in their last year.
 # [](#header-1)Research funding
 
 This section is for sources of funding to carry out research (e.g., computer to run models; travel to observe, etc.)
+
+- [Graduate Women in Science National Fellowships Program](http://www.gwis.org/?page=fellowship_program) **due in January**. Up to $10,000.
 
 - [The Lewis and Clark Fund for Exploration and Field Research](https://www.amphilsoc.org/grants/lewisandclark) **due in January/February**. Up to $5,000.
 
