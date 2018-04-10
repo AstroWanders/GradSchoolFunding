@@ -40,6 +40,8 @@ A STEM grad student should not have to pay for his/her graduate education. Many 
 
 - [AAAS Mass Media Science & Engineering Fellowship](https://www.aaas.org/page/about-1) **due January 15**. $5000/10 weeks (June-August) & relocation fees.
 
+- [Oak Ridge National Laboratory Graduate Student Higher Education Experiences](https://www.zintellect.com/Posting/Details/587) **due in February/June/October**. $600/week stipend & $150/week housing allowance for up to 52 weeks; relocation fees. Other Oak Ridge Institute for Science & Education opportunities [here](https://orise.orau.gov/stem/internships-fellowships-research-opportunities/graduates.html).
+
 - [NRAO Grote Reber Doctoral Fellowship](https://science.nrao.edu/opportunities/student-programs/ReberFellowships) **due in April/August**. Up to 2 yr duration.
 
 - [Lowell Predoctoral Program](http://www2.lowell.edu/rsch/predoc.php?r=) **due May/December**. 2yr duration. 
@@ -56,9 +58,11 @@ For grad students in their last year.
 
 - [ASU Completion Fellowship](https://graduate.asu.edu/completion-fellowships) **due in March/April/November**. $8,500/$8,500/$3,500. 
 
+- [Microsoft Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/) **due in March**. $25,000 stipend. Specifically for members of underrepresented groups in computing. 
+
 - [American Association of University Women Dissertation Fellowship](https://www.aauw.org/what-we-do/educational-funding-and-awards/american-fellowships/af-dissertation-application/) **due in November**. $20,000 stipend.
 
-- [Ford Foundation Disseration Fellowship](http://sites.nationalacademies.org/PGA/FordFellowships/PGA_047959) **due in December**. $25,000 stipend. Specifically for members of underpresented groups.
+- [Ford Foundation Disseration Fellowship](http://sites.nationalacademies.org/PGA/FordFellowships/PGA_047959) **due in December**. $25,000 stipend. Specifically for members of underrepresented groups.
 
 ### [](#header-3)Scholarships/ Additional funding
 
@@ -67,6 +71,8 @@ For grad students in their last year.
 - [Dan David Prize](http://www.dandavidprize.org/scholars/2017-06-14-08-40-12/scholarship-applications) **due in March**. $15,000. Eligible fields change every year.
 
 - [Amelia Earhart Fellowship](https://www.zonta.org/Global-Impact/Education/Amelia-Earhart-Fellowship) **due in November**. $10,000. Specifically for women. 
+
+- [Google Anita Borg Memorial Scholarship](https://www.womentechmakers.com/scholars). $10,000. Specifcally for women in tech.
 
 - Department funding from [SESE](https://sese.asu.edu/student-life/grad-scholarships).
 
