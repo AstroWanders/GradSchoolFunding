@@ -58,6 +58,8 @@ For grad students in their last year.
 
 - [American Association of University Women Dissertation Fellowship](https://www.aauw.org/what-we-do/educational-funding-and-awards/american-fellowships/af-dissertation-application/) **due in November**. $20,000 stipend.
 
+- [Ford Foundation Disseration Fellowship](http://sites.nationalacademies.org/PGA/FordFellowships/PGA_047959) **due in December**. $25,000 stipend. Specifically for members of underpresented groups.
+
 ### [](#header-3)Scholarships/ Additional funding
 
 - [ASU Graduate Excellence Award](https://clas.asu.edu/fellowships/excellence-awards) **due in March**. $100-200 for grad students who have recieved non-ASU awards.
