@@ -38,6 +38,8 @@ A STEM grad student should not have to pay for his/her graduate education. Many 
 
 - [Phillips Academy Teaching Fellowship](https://www.andover.edu/About/CareersAtAndover/Pages/Teaching-Fellowship-Program.aspx) **due in January**. Campus housing, insurance, $30,000 stipend.
 
+- [AAAS Mass Media Science & Engineering Fellowship](https://www.aaas.org/page/about-1) **due January 15**. $5000/10 weeks (June-August) & relocation fees.
+
 - [NRAO Grote Reber Doctoral Fellowship](https://science.nrao.edu/opportunities/student-programs/ReberFellowships) **due in April/August**. Up to 2 yr duration.
 
 - [Lowell Predoctoral Program](http://www2.lowell.edu/rsch/predoc.php?r=) **due May/December**. 2yr duration. 
