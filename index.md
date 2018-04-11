@@ -92,6 +92,8 @@ This section is for sources of funding to carry out research (e.g., computer to 
 
 # [](#header-1)Travel funding
 
+- [AAS FAMOUS Travel Grants](https://aas.org/grants-and-prizes/famous-travel-grants). To present research at an AAS meeting. Specifically for members of underrepresented groups in astronomy.
+
 - [AAS International Travel Grants](https://aas.org/grants-and-prizes/international-travel-grants) **due in January/June**. To present research at an international conference.
 
 - [AAS Rodger Doxsey Travel Prize](https://aas.org/grants-and-prizes/rodger-doxsey-travel-prize) **due in October**. To present dissertation talk at a Winter AAS Meeting. 
