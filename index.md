@@ -38,6 +38,8 @@ A STEM grad student should not have to pay for his/her graduate education. Many 
 
 - [Phillips Academy Teaching Fellowship](https://www.andover.edu/About/CareersAtAndover/Pages/Teaching-Fellowship-Program.aspx) **due in January**. Campus housing, insurance, $30,000 stipend.
 
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) **due in January**. $6000/3 months (May-August). 30hr/week commitment expected.
+
 - [AAAS Mass Media Science & Engineering Fellowship](https://www.aaas.org/page/about-1) **due January 15**. $5000/10 weeks (June-August) & relocation fees.
 
 - [Oak Ridge National Laboratory Graduate Student Higher Education Experiences](https://www.zintellect.com/Posting/Details/587) **due in February/June/October**. $600/week stipend & $150/week housing allowance for up to 52 weeks; relocation fees. Other Oak Ridge Institute for Science & Education opportunities [here](https://orise.orau.gov/stem/internships-fellowships-research-opportunities/graduates.html).
