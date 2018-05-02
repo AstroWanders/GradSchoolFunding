@@ -108,6 +108,8 @@ This section is for sources of funding to carry out research (e.g., computer to 
 
 - [ASU Graduate & Professional Student Association](http://gpsa.asu.edu/funding/) **due up to 2-3 mo before travel**. Up to $950.
 
+- [ASU Graduate College Travel Award](https://graduate.asu.edu/pay-for-college/travel-awards) **award 4 times/year, due 1-2 mo before travel**. Up to $500.
+
 # [](#header-1)Helpful information for applications
 
 - [Resumes & Cover Letters for Ph.D. Students](https://ocs.fas.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
